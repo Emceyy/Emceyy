@@ -7,9 +7,18 @@
 - 🎓 I'm studying Computer Engineering at Çukurova University
 - 📫 How to reach me **emceyuysal@gmail.com**
 <div align="left">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emceyy&show_icons=true&locale=en" alt="emceyy" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emceyy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Stats -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=emceyy&cache_seconds=1800&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="emceyy stats" />
+  </p>
+
+  <!-- Top Languages -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emceyy&locale=en&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="languages graph" />
+  </p>
 </div>
+
+
 
 ###
 
