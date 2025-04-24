@@ -3,7 +3,7 @@
 <h3>Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on Web Applications
-- 🌱 I’m currently learning Mobil Development
+- 🌱 I’m currently learning Mobil and Back-End Development
 - 🎓 I'm studying Computer Engineering at Çukurova University
 - 📫 How to reach me **emceyuysal@gmail.com**
 <div align="left">
