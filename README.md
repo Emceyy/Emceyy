@@ -47,9 +47,6 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Stats
 
-These stats provide an overview of my activity. The "Total Contributions" metric includes activity from private repositories.
-*(Note: Ensure "Include private contributions on my profile" is enabled in your GitHub profile settings for accurate private contribution counting.)*
-
 <div align="left">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=emceyy&cache_seconds=1800&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_total_contributions=true" alt="emceyy GitHub stats" />
