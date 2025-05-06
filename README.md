@@ -43,8 +43,6 @@ Here are some of the technologies I work with:
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <div align="left">
@@ -53,6 +51,9 @@ Here are some of the technologies I work with:
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emceyy&locale=en&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages for emceyy" />
+  </p>
+  <p>
+    <img src="https://streak-stats.demolab.com/?user=emceyy&theme=radical&hide_border=true" alt="GitHub Streak Stats for emceyy" />
   </p>
 </div>
 
