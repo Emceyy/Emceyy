@@ -1,6 +1,5 @@
 # Hi there, I'm Emre Ceylan Uysal 👋
 
----
 
 ## 👨‍💻 About Me
 
@@ -10,7 +9,6 @@
 *   🚀 Passionate about creating efficient, scalable, and user-friendly solutions.
 *   📫 Let's connect! Reach me at: **emceyuysal@gmail.com**
 
----
 
 ## 💻 Tech Stack
 
@@ -41,7 +39,6 @@ Here are some of the technologies I work with:
   <!-- Added MySQL Icon. You can also use mysql-original.svg if you prefer the icon without wordmark -->
 </div>
 
----
 
 ## 📊 GitHub Stats
 
@@ -57,7 +54,6 @@ Here are some of the technologies I work with:
   </p>
 </div>
 
----
 
 ## 📫 Let's Connect!
 
@@ -73,4 +69,3 @@ Find me on other platforms:
   <!-- Add other links like Twitter, personal website, etc. if you have them -->
 </div>
 
----
