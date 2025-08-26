@@ -3,11 +3,11 @@
 
 ## 👨‍💻 About Me
 
-*   🔭 I’m currently focused on building robust **Web Applications**.
-*   🌱 I’m actively learning and expanding my skills in **Mobile Development** and advanced **Back-End** technologies.
-*   🎓 Studying **Computer Engineering** at Çukurova University.
-*   🚀 Passionate about creating efficient, scalable, and user-friendly solutions.
-*   📫 Let's connect! Reach me at: **emceyuysal@gmail.com**
+*   🔭 I engineer end-to-end software solutions, with experience in both client-side and server-side development.
+*   🌱 I'm passionate about the entire development lifecycle, including UI/UX implementation, API design, database management, and system architecture.
+*   🚀 My current focus is on deepening my knowledge in **Game Development** and exploring cross-platform **Mobile** frameworks.
+*   🎓 Graduated in **Computer Engineering** from Çukurova University.
+*   📫 Open to new challenges and collaborations. You can reach me at: **emceyuysal@gmail.com**
 
 
 ## 💻 Tech Stack
@@ -17,6 +17,7 @@ Here are some of the technologies I work with:
 <div style="display: flex; align-items: center; gap: 8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 40px;" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 40px;" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="height: 40px;" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 40px;" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=nextjs" style="height: 40px;" alt="nextjs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px;" alt="nodejs logo"  />
@@ -25,7 +26,7 @@ Here are some of the technologies I work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height: 40px;" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="height: 40px;" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="height: 40px;" alt="redis logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 40px;" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" style="height: 40px;" alt="sql logo"  />
 </div>
 
 
